@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html id="home-version-1">
         <head>
-                <title>WarTa - News/Magazine Template</title>
+                <title>WarTa - News/Magazine Template002</title>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 
