@@ -87,7 +87,7 @@
                                                 <ul class="nav navbar-nav navbar-right">
                                                         <li class="active"><a href="#"><i class="fa fa-home"></i></a></li>
                                                         <li class="dropdown">
-                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home <b class="caret"></b></a>
+                                                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home -= Cesar Aquino <b class="caret"></b></a>
                                                                 <ul class="dropdown-menu">
                                                                         <li><a href="home-version-1.html">Home Vervion 1</a></li>
                                                                         <li><a href="home-version-2.html">Home Version 2</a></li>
